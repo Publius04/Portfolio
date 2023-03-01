@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio
 
 Below are summaries of each project, in order. Enjoy!
 
