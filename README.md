@@ -1,4 +1,7 @@
 # PortfolioProjects
+
+Below are summaries of each project, in order. Enjoy!
+
 ### 1. shopping_stock_checker.py
 
 This project was completed for a client who wanted to be notified via text when a product became available for purchase. The included code scraped website data for product availability and notified the client's personal phone via sms messaging.
