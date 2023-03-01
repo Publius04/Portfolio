@@ -2,7 +2,7 @@
 
 Below, I've included summaries for each project.
 
-## 1. shopping_stock_checker.py
+#### 1. shopping_stock_checker.py
 
 This project was completed for a client who wanted to be notified via text when a product became available for purchase. The included code scraped website data for product availability and notified the client's personal phone via sms messaging.
 
