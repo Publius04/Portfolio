@@ -20,7 +20,7 @@ In highschool, I was part of a speech and debate club. Many websites exist to ge
 
 ### 5. rss_feed_email.py
 
-This project scrapes data from the rss feeds of different news sources and formats collected information into an email using the MIME protocol. I still use this code as a quick and efficient way to stay current with the news.
+This project scrapes data from the rss feeds of different news sources and formats collected information into an email using the MIME protocol. I still use this code as a quick and efficient way to stay informed on current events.
 
 ### 6. spotify_liked_songs_playlist.py
 
