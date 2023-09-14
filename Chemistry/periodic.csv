@@ -1,0 +1,119 @@
+Symbol,Weight,PotCharges,Name,Type,MeltingPt,BoilingPt,Phase
+H,1.007944,[1],Hydrogen,Nonmetal,14.175,20.28,gas
+He,4.0026022,[0],Helium,Noble Gas,None,4.22,gas
+Li,6.9412,[1],Lithium,Alkali Metal,453.85,1615,solid
+Be,9.0121823,[2],Beryllium,Alkaline Earth Metal,1560.15,2742,solid
+B,10.8117,"[-3, 3]",Boron,Metalloid,2573.15,4200,solid
+C,12.01078,[4],Carbon,Nonmetal,3948.15,4300,solid
+N,14.00672,[-3],Nitrogen,Nonmetal,63.29,77.36,gas
+O,15.99943,[-2],Oxygen,Nonmetal,50.5,90.2,gas
+F,18.99840325,[-1],Fluorine,Halogen,53.63,85.03,gas
+Ne,20.17976,[0],Neon,Noble Gas,24.703,27.07,gas
+Na,22.98976928,[1],Sodium,Alkali Metal,371.15,1156,solid
+Mg,24.30506,[2],Magnesium,Alkaline Earth Metal,923.15,1363,solid
+Al,26.98153868,[3],Aluminum,Metal,933.4,2792,solid
+Si,28.08553,"[4, -4]",Silicon,Metalloid,1683.15,3538,solid
+P,30.9737622,"[5, 3, -3]",Phosphorus,Nonmetal,317.25,553,solid
+S,32.0655,"[-2, 2, 4, 6]",Sulfur,Nonmetal,388.51,717.8,solid
+Cl,35.4532,[-1],Chlorine,Halogen,172.31,239.11,gas
+Ar,39.9481,[0],Argon,Noble Gas,83.96,87.3,gas
+K,39.09831,[1],Potassium,Alkali Metal,336.5,1032,solid
+Ca,40.0784,[2],Calcium,Alkaline Earth Metal,1112.15,1757,solid
+Sc,44.9559126,[3],Scandium,Transition Metal,1812.15,3109,solid
+Ti,47.8671,"[4, 3]",Titanium,Transition Metal,1933.15,3560,solid
+V,50.94151,"[2, 3, 4, 5]",Vanadium,Transition Metal,2175.15,3680,solid
+Cr,51.99616,"[2, 3, 6]",Chromium,Transition Metal,2130.15,2944,solid
+Mn,54.9380455,"[2, 4, 7]",Manganese,Transition Metal,1519.15,2334,solid
+Fe,55.8452,"[2, 3]",Iron,Transition Metal,1808.15,3134,solid
+Co,58.9331955,"[2, 3]",Cobalt,Transition Metal,1768.15,3200,solid
+Ni,58.69344,[2],Nickel,Transition Metal,1726.15,3186,solid
+Cu,63.5463,"[1, 2]",Copper,Transition Metal,1357.75,2835,solid
+Zn,65.382,[2],Zinc,Transition Metal,692.88,1180,solid
+Ga,69.7231,[3],Gallium,Metal,302.91,2477,solid
+Ge,72.641,"[-4, 2, 4]",Germanium,Metalloid,1211.45,3106,solid
+As,74.921602,"[-3, 3, 5]",Arsenic,Metalloid,1090.15,887,solid
+Se,78.963,"[-2, 4, 6]",Selenium,Nonmetal,494.15,958,solid
+Br,79.9041,"[-1, 1, 5]",Bromine,Halogen,266.05,332,liq
+Kr,83.7982,[0],Krypton,Noble Gas,115.93,119.93,gas
+Rb,85.46783,[1],Rubidium,Alkali Metal,312.79,961,solid
+Sr,87.621,[2],Strontium,Alkaline Earth Metal,1042.15,1655,solid
+Y,88.905852,[3],Yttrium,Transition Metal,1799.15,3609,solid
+Zr,91.2242,[4],Zirconium,Transition Metal,2125.15,4682,solid
+Nb,92.906382,"[3, 5]",Niobium,Transition Metal,2741.15,5017,solid
+Mo,95.962,"[3, 6]",Molybdenum,Transition Metal,2890.15,4912,solid
+Tc,98,[6],Technetium,Transition Metal,2473.15,5150,artificial
+Ru,101.072,"[3, 4, 8]",Ruthenium,Transition Metal,2523.15,4423,solid
+Rh,102.905502,[4],Rhodium,Transition Metal,2239.15,3968,solid
+Pd,106.421,"[2, 4]",Palladium,Transition Metal,1825.15,3236,solid
+Ag,107.86822,[1],Silver,Transition Metal,1234.15,2435,solid
+Cd,112.4118,[2],Cadmium,Transition Metal,594.33,1040,solid
+In,114.8183,[3],Indium,Metal,429.91,2345,solid
+Sn,118.7107,"[2, 4]",Tin,Metal,505.21,2875,solid
+Sb,121.7601,"[-3, 3, 5]",Antimony,Metalloid,904.05,1860,solid
+Te,127.603,"[-2, 4, 6]",Tellurium,Metalloid,722.8,1261,solid
+I,126.904473,[-1],Iodine,Halogen,386.65,457.4,solid
+Xe,131.2936,[0],Xenon,Noble Gas,161.45,165.03,gas
+Cs,132.9054519,[1],Cesium,Alkali Metal,301.7,944,solid
+Ba,137.3277,[2],Barium,Alkaline Earth Metal,1002.15,2170,solid
+La,138.905477,[3],Lanthanum,Lanthanide,1193.15,3737,solid
+Ce,140.1161,"[3, 4]",Cerium,Lanthanide,1071.15,3716,solid
+Pr,140.907652,[3],Praseodymium,Lanthanide,1204.15,3793,solid
+Nd,144.2423,"[3, 4]",Neodymium,Lanthanide,1289.15,3347,solid
+Pm,145,[3],Promethium,Lanthanide,1204.15,3273,artificial
+Sm,150.362,[3],Samarium,Lanthanide,1345.15,2067,solid
+Eu,151.9641,[3],Europium,Lanthanide,1095.15,1802,solid
+Gd,157.253,[3],Gadolinium,Lanthanide,1585.15,3546,solid
+Tb,158.925352,"[3, 4]",Terbium,Lanthanide,1630.15,3503,solid
+Dy,162.5001,[3],Dysprosium,Lanthanide,1680.15,2840,solid
+Ho,164.930322,[3],Holmium,Lanthanide,1743.15,2993,solid
+Er,167.2593,[3],Erbium,Lanthanide,1795.15,3503,solid
+Tm,168.934212,[3],Thulium,Lanthanide,1818.15,2223,solid
+Yb,173.0545,[3],Ytterbium,Lanthanide,1097.15,1469,solid
+Lu,174.96681,[3],Lutetium,Lanthanide,1936.15,3675,solid
+Hf,178.492,[4],Hafnium,Transition Metal,2500.15,4876,solid
+Ta,180.947882,[5],Tantalum,Transition Metal,3269.15,5731,solid
+W,183.841,[6],Wolfram,Transition Metal,3680.15,5828,solid
+Re,186.2071,"[2, 4, 6, 7]",Rhenium,Transition Metal,3453.15,5869,solid
+Os,190.233,"[3, 4, 6, 8]",Osmium,Transition Metal,3300.15,5285,solid
+Ir,192.2173,"[3, 4, 6]",Iridium,Transition Metal,2716.15,4701,solid
+Pt,195.0849,"[2, 4, 6]",Platinum,Transition Metal,2045.15,4098,solid
+Au,196.9665694,"[1, 2, 3]",Gold,Transition Metal,1337.73,3129,solid
+Hg,200.592,"[1, 2]",Mercury,Transition Metal,234.43,630,liq
+Tl,204.38332,"[1, 3]",Thallium,Metal,577.15,1746,solid
+Pb,207.21,"[2, 4]",Lead,Metal,600.75,2022,solid
+Bi,208.980401,[3],Bismuth,Metal,544.67,1837,solid
+Po,209,"[2, 4]",Polonium,Metalloid,527.15,1235,solid
+At,210,[None],Astatine,Noble Gas,575.15,610,solid
+Rn,222,[0],Radon,Alkali Metal,202.15,211.3,gas
+Fr,223,[None],Francium,Alkaline Earth Metal,300.15,950,solid
+Ra,226,[2],Radium,Actinide,973.15,2010,solid
+Ac,227,[3],Actinium,Actinide,1323.15,3471,solid
+Th,232.038062,[4],Thorium,Actinide,2028.15,5061,solid
+Pa,231.035882,[5],Protactinium,Actinide,1873.15,4300,solid
+U,238.028913,"[3, 4, 6]",Uranium,Actinide,1405.15,4404,solid
+Np,237,[0],Neptunium,Actinide,913.15,4273,artificial
+Pu,244,[0],Plutonium,Actinide,913.15,3501,artificial
+Am,243,[0],Americium,Actinide,1267.15,2880,artificial
+Cm,247,[0],Curium,Actinide,1340.15,3383,artificial
+Bk,247,[0],Berkelium,Actinide,1259.15,983,artificial
+Cf,251,[0],Californium,Actinide,1925.15,1173,artificial
+Es,252,[0],Einsteinium,Actinide,1133.15,None,artificial
+Fm,257,[0],Fermium,Actinide,None,None,artificial
+Md,258,[0],Mendelevium,Actinide,None,None,artificial
+No,259,[0],Nobelium,Actinide,None,None,artificial
+Lr,262,[0],Lawrencium,Actinide,None,None,artificial
+Rf,267,[0],Rutherfordium,Transactinide,None,None,artificial
+Db,268,[0],Dubnium,Transactinide,None,None,artificial
+Sg,271,[0],Seaborgium,Transactinide,None,None,artificial
+Bh,272,[0],Bohrium,Transactinide,None,None,artificial
+Hs,270,[0],Hassium,Transactinide,None,None,artificial
+Mt,276,[0],Meitnerium,Transactinide,None,None,artificial
+Ds,281,[0],Darmstadtium ,Transactinide,None,None,artificial
+Rg,280,[0],Roentgenium ,Transactinide,None,None,artificial
+Cn,285,[0],Copernicium ,Transactinide,None,None,artificial
+Nh,284,[0],Nihonium,None,None,None,artificial
+Fl,289,[0],Flerovium,Transactinide,None,None,artificial
+Mc,288,[0],Moscovium,None,None,None,artificial
+Lv,293,[0],Livermorium,Transactinide,None,None,artificial
+Ts,294,[0],Tennessine,None,None,None,artificial
+Og,294,[0],Oganesson,Noble Gas,None,None,artificial
