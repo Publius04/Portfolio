@@ -1,0 +1,710 @@
+{
+  "html-css": [
+    {
+      "name": "Learn HTML",
+      "url": "https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet"
+    },
+    {
+      "name": "Learn CSS",
+      "url": "https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet"
+    },
+    {
+      "name": "Build a Website with HTML, CSS, and Github Pages - Beginner HTML",
+      "url": "https://www.codecademy.com/learn/build-websites-intro/modules/learn-html-elements/cheatsheet"
+    },
+    {
+      "name": "Learn Intermediate CSS",
+      "url": "https://www.codecademy.com/learn/learn-intermediate-css/modules/layout-with-flexbox/cheatsheet"
+    },
+    {
+      "name": "Build a Website with HTML, CSS, and Github Pages - Beginner CSS",
+      "url": "https://www.codecademy.com/learn/intro-to-css/modules/learn-css-selectors-visual-rules/cheatsheet"
+    },
+    {
+      "name": "Build Websites for your Business - Responsive Design and Accessibility",
+      "url": "https://www.codecademy.com/learn/responsive-design-and-accessibility/modules/learn-responsive-design-module/cheatsheet"
+    },
+    {
+      "name": "Build Websites for your Business - Intermediate CSS: Colors and Typography",
+      "url": "https://www.codecademy.com/learn/intermediate-css-colors-and-typography/modules/learn-css-colors/cheatsheet"
+    },
+    {
+      "name": "Build a Website with HTML, CSS, and Github Pages - Intermediate CSS: Layout and Positioning",
+      "url": "https://www.codecademy.com/learn/intermediate-css/modules/learn-css-box-model/cheatsheet"
+    },
+    {
+      "name": "Build a Website with HTML, CSS, and Github Pages - Advanced CSS: Flexbox and CSS Transitions",
+      "url": "https://www.codecademy.com/learn/advanced-css-flexbox-and-animations/modules/layout-with-flexbox/cheatsheet"
+    },
+    {
+      "name": "Learn Responsive Design",
+      "url": "https://www.codecademy.com/learn/learn-responsive-design/modules/learn-responsive-design-module/cheatsheet"
+    },
+    {
+      "name": "Learn A-Frame (VR)",
+      "url": "https://www.codecademy.com/learn/learn-a-frame/modules/learn-a-frame-introduction/cheatsheet"
+    }
+  ],
+  "python": [
+    {
+      "name": "Learn Python 3",
+      "url": "https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet"
+    },
+    {
+      "name": "Computer Science - CS101: Introduction to Programming",
+      "url": "https://www.codecademy.com/learn/cspath-cs-101/modules/cspath-python-hello-world/cheatsheet"
+    },
+    {
+      "name": "Learn Intermediate Python 3",
+      "url": "https://www.codecademy.com/learn/learn-intermediate-python-3/modules/int-python-function-arguments/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - Introduction to Python",
+      "url": "https://www.codecademy.com/learn/ida-2-introduction-to-python/modules/ida-2-1-python-syntax/cheatsheet"
+    },
+    {
+      "name": "Build Chatbots with Python - Introduction to Python and Chatbots",
+      "url": "https://www.codecademy.com/learn/introduction-to-python-and-chatbots/modules/welcome-to-chatbots-and-python-syntax/cheatsheet"
+    },
+    {
+      "name": "Probability",
+      "url": "https://www.codecademy.com/learn/probability-mssp/modules/rules-of-probability-mssp/cheatsheet"
+    },
+    {
+      "name": "Getting Started Off Platform for Data Science",
+      "url": "https://www.codecademy.com/learn/getting-started-off-platform-for-data-science/modules/dsop-using-github/cheatsheet"
+    },
+    {
+      "name": "Learn Web Scraping with Beautiful Soup",
+      "url": "https://www.codecademy.com/learn/learn-web-scraping/modules/beautiful-soup/cheatsheet"
+    },
+    {
+      "name": "Analyze Financial Data with Python - Introduction to Python",
+      "url": "https://www.codecademy.com/learn/introduction-to-python-for-finance/modules/learn-python3-hello-world/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - NumPy: A Python Library for Statistics",
+      "url": "https://www.codecademy.com/learn/ida-3-introduction-to-numpy/modules/ida-3-1-numpy-syntax/cheatsheet"
+    },
+    {
+      "name": "Learn the Basics of Machine Learning",
+      "url": "https://www.codecademy.com/learn/machine-learning/modules/dspath-linear-regression/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - Data Manipulation with Pandas",
+      "url": "https://www.codecademy.com/learn/ida-4-data-manipulation-pandas/modules/ida-4-1-introduction-to-pandas/cheatsheet"
+    },
+    {
+      "name": "Learn Data Analysis with Pandas",
+      "url": "https://www.codecademy.com/learn/data-processing-pandas/modules/dspath-intro-pandas/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Introduction to Django",
+      "url": "https://www.codecademy.com/learn/introduction-to-django/modules/introduction-to-django/cheatsheet"
+    },
+    {
+      "name": "Visualize Data with Python - Introduction to Python",
+      "url": "https://www.codecademy.com/learn/introduction-to-python-dvp/modules/python-syntax-dvp/cheatsheet"
+    },
+    {
+      "name": "Build a Machine Learning Model with Python - Supervised Learning: Regression",
+      "url": "https://www.codecademy.com/learn/regression-skill-path/modules/linear-regression-skill-path/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - Data Visualization with Matplotlib",
+      "url": "https://www.codecademy.com/learn/ida-5-data-visualization-matplotlib/modules/ida-5-1-introduction-to-matplotlib/cheatsheet"
+    },
+    {
+      "name": "Build Chatbots with Python - Python Data Structures and Loops",
+      "url": "https://www.codecademy.com/learn/python-3-data-structures-and-loops/modules/learn-python3-lists/cheatsheet"
+    },
+    {
+      "name": "Data Scientist - Data Wrangling and Tidying",
+      "url": "https://www.codecademy.com/learn/dscp-data-wrangling-and-tidying/modules/dscp-intro-to-regex/cheatsheet"
+    },
+    {
+      "name": "Learn How to Get Started with Natural Language Processing",
+      "url": "https://www.codecademy.com/learn/natural-language-processing/modules/getting-started-with-nlp-module/cheatsheet"
+    },
+    {
+      "name": "Build Chatbots with Python - Rule-Based Chatbots",
+      "url": "https://www.codecademy.com/learn/rule-based-chatbots/modules/intro-to-nlp-rule-based-chatbots/cheatsheet"
+    },
+    {
+      "name": "Exploratory Data Analysis in Python",
+      "url": "https://www.codecademy.com/learn/eda-exploratory-data-analysis-python/modules/eda-summarize-single-feature/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - Statistics for Data Analysis",
+      "url": "https://www.codecademy.com/learn/ida-6-statistics-for-data-analysis/modules/ida-6-1-variance-and-standard-deviation/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with Python - Hypothesis Testing with SciPy",
+      "url": "https://www.codecademy.com/learn/ida-7-hypothesis-testing-scipy/modules/ida-7-1-hypothesis-testing/cheatsheet"
+    },
+    {
+      "name": "Differential Calculus",
+      "url": "https://www.codecademy.com/learn/learn-differential-calculus/modules/math-ds-differential-calculus/cheatsheet"
+    },
+    {
+      "name": "Data Scientist - Data Visualization",
+      "url": "https://www.codecademy.com/learn/dscp-data-visualization/modules/dscp-data-visualization-with-matplotlib/cheatsheet"
+    },
+    {
+      "name": "Linear Regression in Python",
+      "url": "https://www.codecademy.com/learn/linear-regression-mssp/modules/simple-linear-regression-mssp/cheatsheet"
+    },
+    {
+      "name": "Linear Algebra",
+      "url": "https://www.codecademy.com/learn/learn-linear-algebra/modules/math-ds-linear-algebra/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Templates in Django",
+      "url": "https://www.codecademy.com/learn/templates-in-django/modules/django-templates/cheatsheet"
+    },
+    {
+      "name": "Learn Statistics with NumPy",
+      "url": "https://www.codecademy.com/learn/intro-statistics-numpy/modules/dspath-intro-numpy/cheatsheet"
+    },
+    {
+      "name": "Learn Data Structures and Algorithms with Python",
+      "url": "https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python/modules/nodes/cheatsheet"
+    },
+    {
+      "name": "Learn Statistics with Python",
+      "url": "https://www.codecademy.com/learn/learn-statistics-with-python/modules/mean-median-and-mode/cheatsheet"
+    },
+    {
+      "name": "Analyze Financial Data with Python - Introduction to Pandas",
+      "url": "https://www.codecademy.com/learn/introduction-to-pandas-for-finance/modules/introduction-to-pandas-python-finance/cheatsheet"
+    },
+    {
+      "name": "How to Clean Data with Python",
+      "url": "https://www.codecademy.com/learn/practical-data-cleaning/modules/data-cleaning-with-pandas/cheatsheet"
+    },
+    {
+      "name": "Learn Flask",
+      "url": "https://www.codecademy.com/learn/learn-flask/modules/introduction-to-flask/cheatsheet"
+    },
+    {
+      "name": "Build a Machine Learning Model with Python - Supervised Learning: Introduction to Classification",
+      "url": "https://www.codecademy.com/learn/introduction-to-supervised-learning-skill-path/modules/k-nearest-neighbors-skill-path/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Data in Django",
+      "url": "https://www.codecademy.com/learn/data-in-django/modules/django-models-and-databases/cheatsheet"
+    },
+    {
+      "name": "Visualize Data with Python - Graphing in Python",
+      "url": "https://www.codecademy.com/learn/graphing-in-python-dvp/modules/matplotlib-dvp/cheatsheet"
+    },
+    {
+      "name": "Analyze Financial Data with Python - Introduction to NumPy",
+      "url": "https://www.codecademy.com/learn/introduction-to-numpy-for-finance/modules/learn-numpy-introduction-for-finance/cheatsheet"
+    },
+    {
+      "name": "Analyze Financial Data with Python - Visualizing Finance Data",
+      "url": "https://www.codecademy.com/learn/visualizing-finance-data/modules/matplotlib-python-finance/cheatsheet"
+    },
+    {
+      "name": "Learn Data Visualization with Python",
+      "url": "https://www.codecademy.com/learn/data-visualization-python/modules/dspath-matplotlib/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Views in Django",
+      "url": "https://www.codecademy.com/learn/views-in-django/modules/django-writing-more-views/cheatsheet"
+    },
+    {
+      "name": "Learn Sorting Algorithms with Python",
+      "url": "https://www.codecademy.com/learn/sorting-algorithms/modules/cs-bubble-sort/cheatsheet"
+    },
+    {
+      "name": "Learn Recursion with Python",
+      "url": "https://www.codecademy.com/learn/learn-recursion-python/modules/recursion-conceptual/cheatsheet"
+    },
+    {
+      "name": "Visualize Data with Python - Python for Data Analysis",
+      "url": "https://www.codecademy.com/learn/python-for-data-analysis-dvp/modules/python-lists-dvp/cheatsheet"
+    },
+    {
+      "name": "Analyze Financial Data with Python - Regression",
+      "url": "https://www.codecademy.com/learn/regression-for-finance/modules/linear-regression-python-finance/cheatsheet"
+    },
+    {
+      "name": "Technical Interview Practice with Python",
+      "url": "https://www.codecademy.com/learn/technical-interview-practice-python/modules/technical-interviews-whiteboarding/cheatsheet"
+    },
+    {
+      "name": "How to Implement Search Algorithms with Python",
+      "url": "https://www.codecademy.com/learn/search-algorithms/modules/linear-binary-search/cheatsheet"
+    },
+    {
+      "name": "Build a Machine Learning Model with Python - Supervised Learning: Advanced Classification",
+      "url": "https://www.codecademy.com/learn/advanced-supervised-learning-skill-path/modules/decision-trees-skill-path/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Forms in Django",
+      "url": "https://www.codecademy.com/learn/forms-in-django/modules/django-forms/cheatsheet"
+    },
+    {
+      "name": "Visualize Data with Python - Data Manipulation in Python",
+      "url": "https://www.codecademy.com/learn/data-manipulation-in-python-dvp/modules/pandas-dvp/cheatsheet"
+    },
+    {
+      "name": "Build Chatbots with Python - Retrieval-Based Chatbots",
+      "url": "https://www.codecademy.com/learn/retrieval-based-chatbots/modules/language-and-topic-modeling-chatbots/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Accounts and Authentication in Django",
+      "url": "https://www.codecademy.com/learn/accounts-and-authentication-in-django/modules/django-accounts-and-authentication/cheatsheet"
+    },
+    {
+      "name": "Visualize Data with Python - Advanced Graphing in Python",
+      "url": "https://www.codecademy.com/learn/advanced-graphing-in-python/modules/seaborn-dvp/cheatsheet"
+    },
+    {
+      "name": "Linear Data Structures",
+      "url": "https://www.codecademy.com/learn/linear-data-structures/modules/cspath-nodes/cheatsheet"
+    },
+    {
+      "name": "Data Analyst - Data Visualization",
+      "url": "https://www.codecademy.com/learn/dacp-data-visualization/modules/dscp-data-visualization-with-matplotlib/cheatsheet"
+    },
+    {
+      "name": "Build Chatbots with Python - Deep Learning and Generative Chatbots",
+      "url": "https://www.codecademy.com/learn/deep-learning-and-generative-chatbots/modules/deep-learning-for-nlp/cheatsheet"
+    },
+    {
+      "name": "Build a Machine Learning Model with Python - Unsupervised Learning",
+      "url": "https://www.codecademy.com/learn/unsupervised-learning-skill-path/modules/clustering-skill-path/cheatsheet"
+    },
+    {
+      "name": "Build a Machine Learning Model with Python - Perceptrons and Neural Nets",
+      "url": "https://www.codecademy.com/learn/perceptrons-and-neural-nets-skill-path/modules/perceptrons-skill-path/cheatsheet"
+    },
+    {
+      "name": "Learn Complex Data Structures",
+      "url": "https://www.codecademy.com/learn/complex-data-structures/modules/cspath-hash-maps/cheatsheet"
+    },
+    {
+      "name": "Learn Hardware Programming with CircuitPython",
+      "url": "https://www.codecademy.com/learn/learn-circuitpython/modules/circuit-playground-express-part-1/cheatsheet"
+    },
+    {
+      "name": "Hypothesis Testing with Python",
+      "url": "https://www.codecademy.com/learn/hypothesis-testing-python/modules/hp-introduction-to-hypothesis-testing/cheatsheet"
+    },
+    {
+      "name": "Language Parsing",
+      "url": "https://www.codecademy.com/learn/language-parsing/modules/intro-to-regex/cheatsheet"
+    },
+    {
+      "name": "CS101 Livestream Series",
+      "url": "https://www.codecademy.com/learn/cs-101-livestream-series/modules/cs-101-variables-and-basic-syntax/cheatsheet"
+    },
+    {
+      "name": "Text Preprocessing",
+      "url": "https://www.codecademy.com/learn/text-preprocessing/modules/intro-to-regex/cheatsheet"
+    },
+    {
+      "name": "Text Generation",
+      "url": "https://www.codecademy.com/learn/text-generation/modules/nlp-text-generation/cheatsheet"
+    },
+    {
+      "name": "Data Analyst Interview Preparation - Coding Challenges",
+      "url": "https://www.codecademy.com/learn/intprep-coding-challenges/modules/intprep-sql-coding-challenges/cheatsheet"
+    },
+    {
+      "name": "Data Scientist Interview Preparation - Machine Learning and Algorithms for Data Science Interviews",
+      "url": "https://www.codecademy.com/learn/intprep-ds-machine-learning-algorithms-ds-interviews/modules/intprep-ds-supervised-learning-interview-questions/cheatsheet"
+    },
+    {
+      "name": "Data Scientist Interview Preparation - Coding Challenges for Data Scientist Interview Preparation",
+      "url": "https://www.codecademy.com/learn/intprep-ds-coding-challenges/modules/intprep-ds-sql-data-science-interview-prep/cheatsheet"
+    },
+    {
+      "name": "Machine Learning: Supervised Learning \ud83e\udd16",
+      "url": "https://www.codecademy.com/learn/dspath-supervised/modules/dspath-linear-regression/cheatsheet"
+    }
+  ],
+  "javascript": [
+    {
+      "name": "Learn JavaScript",
+      "url": "https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet"
+    },
+    {
+      "name": "Learn React",
+      "url": "https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet"
+    },
+    {
+      "name": "Learn TypeScript",
+      "url": "https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-types/cheatsheet"
+    },
+    {
+      "name": "Learn Intermediate JavaScript",
+      "url": "https://www.codecademy.com/learn/learn-intermediate-javascript/modules/learn-javascript-classes/cheatsheet"
+    },
+    {
+      "name": "Building Interactive JavaScript Websites",
+      "url": "https://www.codecademy.com/learn/build-interactive-websites/modules/web-dev-interactive-websites/cheatsheet"
+    },
+    {
+      "name": "Learn Node.js",
+      "url": "https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet"
+    },
+    {
+      "name": "Learn jQuery",
+      "url": "https://www.codecademy.com/learn/learn-jquery/modules/learn-jquery-introduction/cheatsheet"
+    },
+    {
+      "name": "Learn React Native",
+      "url": "https://www.codecademy.com/learn/learn-react-native/modules/introduction-to-react-native/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript Basics",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet"
+    },
+    {
+      "name": "Build Websites for your Business - How to Build Websites on Your Own Computer",
+      "url": "https://www.codecademy.com/learn/build-websites-on-your-own-computer/modules/command-line-for-building-websites/cheatsheet"
+    },
+    {
+      "name": "Learn Redux",
+      "url": "https://www.codecademy.com/learn/learn-redux/modules/core-redux-api/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - Introduction to JavaScript and Building Apps",
+      "url": "https://www.codecademy.com/learn/intro-to-building-web-apps-with-React/modules/overview-of-react/cheatsheet"
+    },
+    {
+      "name": "Learn Asynchronous JavaScript",
+      "url": "https://www.codecademy.com/learn/asynchronous-javascript/modules/javascript-promises/cheatsheet"
+    },
+    {
+      "name": "Create a Professional Website with Velo by Wix",
+      "url": "https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix/modules/wix-introduction-to-javascript-and-Velo/cheatsheet"
+    },
+    {
+      "name": "Software Design Principles",
+      "url": "https://www.codecademy.com/learn/software-design-principles/modules/software-design-principles/cheatsheet"
+    },
+    {
+      "name": "Learn p5.js",
+      "url": "https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet"
+    },
+    {
+      "name": "Learn React Testing",
+      "url": "https://www.codecademy.com/learn/learn-react-testing/modules/jest/cheatsheet"
+    },
+    {
+      "name": "Learn A-Frame (VR)",
+      "url": "https://www.codecademy.com/learn/learn-a-frame/modules/learn-a-frame-introduction/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - Introduction to React",
+      "url": "https://www.codecademy.com/learn/bwa-intro-to-react/modules/react-101-jsx-u/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - JavaScript Functions, Arrays, and Loops",
+      "url": "https://www.codecademy.com/learn/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-control-flow/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript: Function and Scope",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-function-and-scope/modules/game-dev-learn-javascript-functions/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - JavaScript Iterators, Objects, and Classes",
+      "url": "https://www.codecademy.com/learn/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-iterators/cheatsheet"
+    },
+    {
+      "name": "Learn Node-SQLite",
+      "url": "https://www.codecademy.com/learn/learn-node-sqlite/modules/learn-node-sqlite-module/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - JavaScript Fundamentals",
+      "url": "https://www.codecademy.com/learn/bapi-javascript-fundamentals/modules/intro-to-javascript-for-apis/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - Modern JavaScript: Modules and Browser Compatibility",
+      "url": "https://www.codecademy.com/learn/bwa-modern-javascript-modules-and-browser-compatibility/modules/learn-javascript-transpilation/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - JavaScript Conditionals and Functions",
+      "url": "https://www.codecademy.com/learn/bapi-javascript-conditionals-and-functions/modules/learn-javascript-control-flow/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript: Arrays and Loops",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-arrays-and-loops/modules/game-dev-learn-javascript-arrays/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - React: Components Interacting",
+      "url": "https://www.codecademy.com/learn/react-components-interacting/modules/components-and-props/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - React: Component State",
+      "url": "https://www.codecademy.com/learn/react-component-state/modules/react-state/cheatsheet"
+    },
+    {
+      "name": "User Authentication & Authorization in Express",
+      "url": "https://www.codecademy.com/learn/user-authentication-authorization-express/modules/introduction-user-authentication-authorization-in-express/cheatsheet"
+    },
+    {
+      "name": "Learn Build Tools",
+      "url": "https://www.codecademy.com/learn/learn-build-tools/modules/introduction-to-build-tools/cheatsheet"
+    },
+    {
+      "name": "Create a Front-End App with React - AJAX Requests and API Interactions",
+      "url": "https://www.codecademy.com/learn/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - Building Back-End Servers with Express.js",
+      "url": "https://www.codecademy.com/learn/bapi-learn-express/modules/introduction-to-node-js/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript: Higher Order Functions and Iterators",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-higher-order-functions-and-iterators/modules/game-dev-learn-javascript-iterators/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - JavaScript Objects, Modules, and Browser Compatibility",
+      "url": "https://www.codecademy.com/learn/bapi-javascript-objects-modules-and-browser-compatibility/modules/bapi-javascript-objects/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript: Objects",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-objects/modules/game-dev-learn-javascript-objects/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - JavaScript Arrays, Loops, and Iterators",
+      "url": "https://www.codecademy.com/learn/bapi-javascript-arrays-loops-and-iterators/modules/learn-javascript-arrays/cheatsheet"
+    },
+    {
+      "name": "Learn React Router",
+      "url": "https://www.codecademy.com/learn/learn-react-router/modules/learn-react-router/cheatsheet"
+    },
+    {
+      "name": "Technical Interview Practice with JavaScript",
+      "url": "https://www.codecademy.com/learn/technical-interview-practice-with-javascript/modules/asymptotic-notation-js/cheatsheet"
+    },
+    {
+      "name": "How to Debug JavaScript Errors",
+      "url": "https://www.codecademy.com/learn/javascript-errors-debugging/modules/errors-and-error-handling/cheatsheet"
+    },
+    {
+      "name": "Learn Handlebars",
+      "url": "https://www.codecademy.com/learn/learn-handlebars/modules/templating-with-handlebars/cheatsheet"
+    },
+    {
+      "name": "Defending Node Applications from SQL Injection, XSS, & CSRF Attacks",
+      "url": "https://www.codecademy.com/learn/defending-express-applications-from-sql-injection-xss-csrf-attacks/modules/preventing-cross-site-request-forgery-csrf-attacks/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - Connecting JavaScript and SQL",
+      "url": "https://www.codecademy.com/learn/connecting-javascript-and-sql/modules/learn-node-sqlite-module/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - SQL for Back-End Development",
+      "url": "https://www.codecademy.com/learn/intro-sql-back-end-development/modules/webdev-sql-manipulation/cheatsheet"
+    },
+    {
+      "name": "Create Video Games with Phaser.js - Learn JavaScript Classes and Phaser Animations",
+      "url": "https://www.codecademy.com/learn/game-dev-learn-javascript-classes-and-phaser-animations/modules/game-dev-learn-javascript-classes/cheatsheet"
+    },
+    {
+      "name": "Learn React.js: Part II",
+      "url": "https://www.codecademy.com/learn/react-102/modules/react-102-stateless-inherit-stateful-u/cheatsheet"
+    },
+    {
+      "name": "Connecting Front-End to Back-End",
+      "url": "https://www.codecademy.com/learn/connecting-front-end-to-back-end/modules/connecting-front-end-to-back-end/cheatsheet"
+    },
+    {
+      "name": "Learn CSS-in-JS",
+      "url": "https://www.codecademy.com/learn/learn-css-in-js/modules/css-in-js-styling-your-applications/cheatsheet"
+    }
+  ],
+  "java": [
+    {
+      "name": "Learn Java",
+      "url": "https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet"
+    },
+    {
+      "name": "Java: Object-Oriented Programming",
+      "url": "https://www.codecademy.com/learn/java-object-oriented-programming/modules/what-are-classes-objects-and-methods-apcs/cheatsheet"
+    },
+    {
+      "name": "Learn Spring",
+      "url": "https://www.codecademy.com/learn/learn-spring/modules/how-spring-works/cheatsheet"
+    },
+    {
+      "name": "Java for Programmers",
+      "url": "https://www.codecademy.com/learn/java-for-programmers/modules/java-for-programmers-getting-started/cheatsheet"
+    },
+    {
+      "name": "Java: Introductions and Variables",
+      "url": "https://www.codecademy.com/learn/java-introductions-and-variables/modules/apcs-hello-world/cheatsheet"
+    },
+    {
+      "name": "Java: Loops and Arrays",
+      "url": "https://www.codecademy.com/learn/java-loops-and-arrays/modules/arrays-and-arraylists-apcs/cheatsheet"
+    },
+    {
+      "name": "Java: Algorithms",
+      "url": "https://www.codecademy.com/learn/java-algorithms/modules/recursion-apcs/cheatsheet"
+    },
+    {
+      "name": "Java: Inheritance and Polymorphism",
+      "url": "https://www.codecademy.com/learn/java-inheritance-and-polymorphism/modules/inheritance-and-polymorphism-apcs/cheatsheet"
+    },
+    {
+      "name": "Learn the Basics of Android",
+      "url": "https://www.codecademy.com/learn/learn-the-basics-of-android/modules/why-android/cheatsheet"
+    },
+    {
+      "name": "Java: Going Further with Classes and Methods",
+      "url": "https://www.codecademy.com/learn/java-going-further-with-classes-and-methods/modules/string-methods-apcs/cheatsheet"
+    },
+    {
+      "name": "Java: Conditionals and Control Flow",
+      "url": "https://www.codecademy.com/learn/java-conditionals-and-control-flow/modules/conditionals-and-control-flow-apcs/cheatsheet"
+    }
+  ],
+  "sql": [
+    {
+      "name": "Learn SQL",
+      "url": "https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with SQL - Getting Started with SQL",
+      "url": "https://www.codecademy.com/learn/analyze-data-sql-get-started-with-sql/modules/analyze-data-sql-learn-manipulation/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with SQL - Writing Basic Queries",
+      "url": "https://www.codecademy.com/learn/analyze-data-sql-query-data/modules/analyze-data-sql-learn-queries/cheatsheet"
+    },
+    {
+      "name": "Getting Started Off Platform for Data Science",
+      "url": "https://www.codecademy.com/learn/getting-started-off-platform-for-data-science/modules/dsop-using-github/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with SQL - Calculating Aggregates",
+      "url": "https://www.codecademy.com/learn/analyze-data-sql-calculate-and-summarize-data/modules/dspath-sql-aggregates/cheatsheet"
+    },
+    {
+      "name": "Analyze Data with SQL - Joining Multiple Tables",
+      "url": "https://www.codecademy.com/learn/analyze-data-sql-join-data/modules/analyze-data-sql-learn-joins/cheatsheet"
+    },
+    {
+      "name": "Learn Node-SQLite",
+      "url": "https://www.codecademy.com/learn/learn-node-sqlite/modules/learn-node-sqlite-module/cheatsheet"
+    },
+    {
+      "name": "Build Python Web Apps with Django - Data in Django",
+      "url": "https://www.codecademy.com/learn/data-in-django/modules/django-models-and-databases/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - Connecting JavaScript and SQL",
+      "url": "https://www.codecademy.com/learn/connecting-javascript-and-sql/modules/learn-node-sqlite-module/cheatsheet"
+    },
+    {
+      "name": "Create a Back-End App with JavaScript - SQL for Back-End Development",
+      "url": "https://www.codecademy.com/learn/intro-sql-back-end-development/modules/webdev-sql-manipulation/cheatsheet"
+    },
+    {
+      "name": "Data Analyst Interview Preparation - Coding Challenges",
+      "url": "https://www.codecademy.com/learn/intprep-coding-challenges/modules/intprep-sql-coding-challenges/cheatsheet"
+    }
+  ],
+  "bash": [
+    {
+      "name": "Learn the Command Line",
+      "url": "https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation/cheatsheet"
+    },
+    {
+      "name": "Learn Git",
+      "url": "https://www.codecademy.com/learn/learn-git/modules/learn-git-git-workflow-u/cheatsheet"
+    },
+    {
+      "name": "Learn Bash Scripting",
+      "url": "https://www.codecademy.com/learn/bash-scripting/modules/bash-scripting/cheatsheet"
+    }
+  ],
+  "ruby": [],
+  "c-plus-plus": [
+    {
+      "name": "Learn C++",
+      "url": "https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/cheatsheet"
+    }
+  ],
+  "r": [
+    {
+      "name": "Learn R",
+      "url": "https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet"
+    },
+    {
+      "name": "Getting Started Off Platform for Data Science",
+      "url": "https://www.codecademy.com/learn/getting-started-off-platform-for-data-science/modules/dsop-using-github/cheatsheet"
+    },
+    {
+      "name": "Learn Statistics with R",
+      "url": "https://www.codecademy.com/learn/learn-statistics-with-r/modules/r-stats-mean-median-mode/cheatsheet"
+    },
+    {
+      "name": "Learn dplyr",
+      "url": "https://www.codecademy.com/learn/learn-dplyr/modules/learn-r-data-frames/cheatsheet"
+    },
+    {
+      "name": "Learn Linear Regression in R",
+      "url": "https://www.codecademy.com/learn/learn-linear-regression-in-r/modules/linear-regression-in-r/cheatsheet"
+    }
+  ],
+  "c-sharp": [
+    {
+      "name": "Learn C#",
+      "url": "https://www.codecademy.com/learn/learn-c-sharp/modules/csharp-hello-world/cheatsheet"
+    }
+  ],
+  "php": [],
+  "go": [],
+  "swift": [
+    {
+      "name": "Learn Swift",
+      "url": "https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - iOS and Swift Foundations",
+      "url": "https://www.codecademy.com/learn/ios-and-swift-foundations/modules/hello-world-swiftui/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - Wireframing and Creating a Project in Xcode",
+      "url": "https://www.codecademy.com/learn/wireframing-and-creating-a-project-in-xcode/modules/variables-swiftui/cheatsheet"
+    },
+    {
+      "name": "Learn Intermediate Swift",
+      "url": "https://www.codecademy.com/learn/learn-intermediate-swift/modules/swift-enumerations/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - Building Code History: The User Interface",
+      "url": "https://www.codecademy.com/learn/creating-user-interfaces-with-swiftui/modules/arrays-and-loops-swiftui/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - Building Code History: The Question Model",
+      "url": "https://www.codecademy.com/learn/building-code-history-part-one-swiftui/modules/learn-swift-functions/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - Building Code History: The Game Model",
+      "url": "https://www.codecademy.com/learn/building-code-history-part-two-swiftui/modules/properties-and-access-control-swiftui/cheatsheet"
+    },
+    {
+      "name": "Build an Intermediate iOS App with SwiftUI - Exploring Recipes",
+      "url": "https://www.codecademy.com/learn/exploring-recipes-swiftui/modules/swift-enumerations/cheatsheet"
+    },
+    {
+      "name": "Build iOS Apps with SwiftUI - Building Code History: The Final App",
+      "url": "https://www.codecademy.com/learn/building-code-history-part-three-swiftui/modules/learn-swift-classes/cheatsheet"
+    },
+    {
+      "name": "Build an Intermediate iOS App with SwiftUI - Adding New Recipes",
+      "url": "https://www.codecademy.com/learn/adding-new-recipes-swiftui/modules/closures-swiftui/cheatsheet"
+    }
+  ],
+  "kotlin": []
+}
