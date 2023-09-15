@@ -38,7 +38,6 @@ This project scrapes data from the rss feeds of different news sources and forma
 
 At the time of coding this project, it was not possible for a Spotify user to share their like songs with others. It was only possible to share playlists that had their own unique playlist_id. This project generates a playlist from a user's liked songs using the Spotify API service.
 
-***
 ## Chemistry
 
 My highschool chemistry teacher would often assign long, tedious problem sets. I created a number of automations for automating my chemistry homework, from automating simple data pulls for chemical compounds to automating the steps of balancing equations and writing lab reports.
